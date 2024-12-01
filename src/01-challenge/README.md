@@ -21,4 +21,4 @@ console.log(preparedGifts3) // []
 
 ## Stars earned
 
-![5 stars](../../.github/01-challenge-score.png)
+![5 stars](../../.github/01-challenge-stars.png)
