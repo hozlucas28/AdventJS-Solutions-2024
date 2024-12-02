@@ -46,7 +46,8 @@
 |     #     | Challenge                                                 | Difficulty | Stars earned |        Description         |
 | :-------: | --------------------------------------------------------- | :--------: | :----------: | :------------------------: |
 |    01     | Return an array of unique gifts sorted in ascending order |     🟢     |    **5**     | [Show](./src/01-challenge) |
-| **Total** |                                                           |   **/**    |    **5**     |           **/**            |
+|    02     | Return a string with the names of good child              |     🟢     |    **5**     | [Show](./src/02-challenge) |
+| **Total** |                                                           |   **/**    |    **10**    |           **/**            |
 
 <h2>
     License

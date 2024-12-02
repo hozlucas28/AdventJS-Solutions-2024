@@ -18,6 +18,7 @@
 		"build": "clear && tsc",
 		"prepare": "husky install",
 		"test": "clear && jest",
-		"test:challenge01": "clear && jest --testPathPattern='/src/01-challenge/.*\\.spec\\.ts$'"
+		"test:challenge01": "clear && jest --testPathPattern='/src/01-challenge/.*\\.spec\\.ts$'",
+		"test:challenge02": "clear && jest --testPathPattern='/src/02-challenge/.*\\.spec\\.ts$'"
 	}
 }
