@@ -48,7 +48,8 @@
 |    01     | Return an array of unique gifts sorted in ascending order |     🟢     |    **5**     | [Show](./src/01-challenge) |
 |    02     | Return a string with the names of good child              |     🟢     |    **5**     | [Show](./src/02-challenge) |
 |    03     | Return an object with the organized toys                  |     🟢     |    **5**     | [Show](./src/03-challenge) |
-| **Total** |                                                           |   **/**    |    **15**    |           **/**            |
+|    04     | Construct a christmas tree with the desired height        |     🟠     |    **5**     | [Show](./src/04-challenge) |
+| **Total** |                                                           |   **/**    |    **20**    |           **/**            |
 
 <h2>
     License
