@@ -10,6 +10,7 @@
     <a href="#----summary">Summary</a> •
     <a href="#----installation">Installation</a> •
     <a href="#----challenges">Challenges</a> •
+    <a href="#----related">Related</a> •
     <a href="#----license">License</a> •
     <a href="#----acknowledgments">Acknowledgments</a> •
     <a href="#----contact">Contact</a>
@@ -51,6 +52,17 @@
 |    04     | Construct a christmas tree with the desired height                                                    |     🟠     |    **5**     | [Show](./src/04-challenge) |
 |    05     | Return a list with the available pair of all boots with the same size (having a left and a right one) |     🟢     |    **5**     | [Show](./src/05-challenge) |
 | **Total** |                                                                                                       |   **/**    |    **25**    |           **/**            |
+
+<h2>
+    Related
+</h2>
+<p>
+    <ul>
+        <li>
+            <a href="https://github.com/hozlucas28/AdventJS-Solutions-2023" target="_blank">Solutions of the AdventJS - 2023</a>
+        </li>
+    </ul>
+</p>
 
 <h2>
     License
