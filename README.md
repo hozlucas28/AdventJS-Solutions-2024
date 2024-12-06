@@ -51,7 +51,8 @@
 |    03     | Return an object with the organized toys                                                              |     🟢     |    **5**     | [Show](./src/03-challenge) |
 |    04     | Construct a christmas tree with the desired height                                                    |     🟠     |    **5**     | [Show](./src/04-challenge) |
 |    05     | Return a list with the available pair of all boots with the same size (having a left and a right one) |     🟢     |    **5**     | [Show](./src/05-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **25**    |           **/**            |
+|    06     | Check if the present is inside the box                                                                |     🟠     |    **5**     | [Show](./src/06-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **30**    |           **/**            |
 
 <h2>
     Related
