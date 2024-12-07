@@ -29,4 +29,4 @@ fixPackages('a(b(c))e')
 
 ## Stars earned
 
-![4 stars](../../.github/07-challenge-stars.png)
+![5 stars](../../.github/07-challenge-stars.png)
