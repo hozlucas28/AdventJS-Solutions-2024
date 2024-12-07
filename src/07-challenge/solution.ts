@@ -1,22 +1,9 @@
 export default function fixPackages(packages: string): string {
-	let packagesFixed: string = ''
+	const regex: RegExp = new RegExp(/(\()(\w+)(\))/)
 
-	const stack: string[] = []
-
-	for (let char of packages) {
-		if (char === '(') {
-			stack.push(packagesFixed)
-			packagesFixed = ''
-			continue
-		}
-
-		if (char === ')') {
-			packagesFixed = stack.pop() + packagesFixed.split('').reverse().join('')
-			continue
-		}
-
-		packagesFixed += char
+	while (regex.test(packages)) {
+		packages = packages.replace(regex, (_, __, match: string) => match.split('').reverse().join(''))
 	}
 
-	return packagesFixed
+	return packages
 }
