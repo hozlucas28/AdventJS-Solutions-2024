@@ -52,7 +52,8 @@
 |    04     | Construct a christmas tree with the desired height                                                    |     🟠     |    **5**     | [Show](./src/04-challenge) |
 |    05     | Return a list with the available pair of all boots with the same size (having a left and a right one) |     🟢     |    **5**     | [Show](./src/05-challenge) |
 |    06     | Check if the present is inside the box                                                                |     🟠     |    **5**     | [Show](./src/06-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **30**    |           **/**            |
+|    07     | Reorder the packages changed in order to fix the Grinch evil                                          |     🟠     |    **4**     | [Show](./src/07-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **34**    |           **/**            |
 
 <h2>
     Related
