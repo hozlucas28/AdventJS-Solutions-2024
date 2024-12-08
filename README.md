@@ -53,7 +53,8 @@
 |    05     | Return a list with the available pair of all boots with the same size (having a left and a right one) |     🟢     |    **5**     | [Show](./src/05-challenge) |
 |    06     | Check if the present is inside the box                                                                |     🟠     |    **5**     | [Show](./src/06-challenge) |
 |    07     | Reorder the packages changed in order to fix the Grinch evil                                          |     🟠     |    **5**     | [Show](./src/07-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **35**    |           **/**            |
+|    08     | Get the progress of each reindeer in the snow track                                                   |     🟢     |    **5**     | [Show](./src/08-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **40**    |           **/**            |
 
 <h2>
     Related
