@@ -54,7 +54,8 @@
 |    06     | Check if the present is inside the box                                                                |     🟠     |    **5**     | [Show](./src/06-challenge) |
 |    07     | Reorder the packages changed in order to fix the Grinch evil                                          |     🟠     |    **5**     | [Show](./src/07-challenge) |
 |    08     | Get the progress of each reindeer in the snow track                                                   |     🟢     |    **5**     | [Show](./src/08-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **40**    |           **/**            |
+|    09     | Return the train action in the next step inside or out the board                                      |     🟠     |    **5**     | [Show](./src/09-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **45**    |           **/**            |
 
 <h2>
     Related
