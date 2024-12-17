@@ -62,7 +62,8 @@
 |    14     | Get the minimum number of moves needed for all the reindeer to end up in a stable                     |     🟢     |    **5**     | [Show](./src/14-challenge) |
 |    15     | Create a table based on an array with objects                                                         |     🟢     |    **5**     | [Show](./src/15-challenge) |
 |    16     | Remove all adjacent snow piles from the path                                                          |     🟢     |    **5**     | [Show](./src/16-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **80**    |           **/**            |
+|    17     | Get how many explosive coal bombs are in the adjacent positions                                       |     🟠     |    **5**     | [Show](./src/17-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **85**    |           **/**            |
 
 <h2>
     Related
