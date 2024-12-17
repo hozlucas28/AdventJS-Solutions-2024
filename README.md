@@ -24,8 +24,10 @@
     Summary
 </h2>
 <p>
-    This repository serves as a housing solutions to programming challenges of <a href="https://adventjs.dev/" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers a platform for developers to improve JavaScript or TypeScript skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
+    This repository serves as a housing solutions to programming challenges of <a href="https://adventjs.dev/" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers a platform for developers to improve Python, JavaScript or TypeScript skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
 </p>
+
+> This repository contains all the solutions in Python, JavaScript, and TypeScript.
 
 <h2>
     Installation
@@ -35,7 +37,7 @@
     <li>Install the latest version of <a href="https://nodejs.org/es/" target="_blank">Node.js<a>.</li>
     <li>Navigate to the directory where you cloned the repository with your favorite CLI.</li>
     <li>Run <code>npm install</code> in your CLI to install all necessary packages.</li>
-    <li>Finally, run <code>npm test</code> in your CLI to execute all challenges/tests.</li>
+    <li>Finally, run <code>npm test</code> in your CLI to execute all challenges/tests (only available for TypeScript files).</li>
 </ol>
 
 > **Note:** If you want to run a specific challenge/test, execute `npm run test:challenge<number>`.

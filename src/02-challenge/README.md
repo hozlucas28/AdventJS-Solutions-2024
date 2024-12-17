@@ -46,6 +46,12 @@ createFrame(['a', 'bb', 'ccc', 'dddd'])
 // ********
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/02-challenge-stars.png)

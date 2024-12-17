@@ -30,6 +30,12 @@ minMovesToStables([2, 6, 9], [3, 8, 5]) // Expected result: 3
  */
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/14-challenge-stars.png)

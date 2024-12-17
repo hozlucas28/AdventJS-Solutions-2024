@@ -57,6 +57,12 @@ organizeInventory(inventory02)
 // }
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/03-challenge-stars.png)

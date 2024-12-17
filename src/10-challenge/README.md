@@ -41,6 +41,12 @@ compile(instructions) // Expected result: 2
  */
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/10-challenge-stars.png)

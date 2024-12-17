@@ -27,6 +27,12 @@ fixPackages('a(b(c))e')
 // 1st we reverse "c" -> "c", then "bc" -> "cb"
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/07-challenge-stars.png)

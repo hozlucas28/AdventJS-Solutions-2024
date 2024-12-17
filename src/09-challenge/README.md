@@ -41,6 +41,12 @@ moveTrain(board, 'R') // The train moves to the right and there is empty space o
 // Expected result: 'none'
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/09-challenge-stars.png)

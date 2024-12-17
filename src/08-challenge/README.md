@@ -51,6 +51,12 @@ drawRace([3, 7, -2], 12)
 */
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/08-challenge-stars.png)

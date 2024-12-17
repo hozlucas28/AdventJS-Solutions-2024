@@ -39,6 +39,12 @@ removeSnow('a')
  */
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/16-challenge-stars.png)

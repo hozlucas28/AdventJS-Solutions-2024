@@ -19,6 +19,12 @@ console.log(preparedGifts3) // []
 // There are no gifts, the list remains empty
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/01-challenge-stars.png)

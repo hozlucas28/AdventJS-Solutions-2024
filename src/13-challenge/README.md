@@ -59,6 +59,12 @@ isRobotBack('UU!U?D') // Expected result: [0,1]
  */
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/13-challenge-stars.png)

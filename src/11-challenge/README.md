@@ -23,6 +23,12 @@ decodeFilename('987654321_elf-roster.csv.tempfile')
 // Expected result: "elf-roster.csv"
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/11-challenge-stars.png)

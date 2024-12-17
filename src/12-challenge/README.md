@@ -47,6 +47,12 @@ calculatePrice('#@Z') // Z is unknown
 // Expected result: undefined
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/12-challenge-stars.png)

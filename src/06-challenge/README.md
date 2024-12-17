@@ -23,6 +23,12 @@ inBox(['#####', '#   #', '#   #', '#   #', '#####'])
 // Expected result: false
 ```
 
+### Solutions
+
+- [Python](./solution.py)
+- [JavaScript](./solution.js)
+- [TypeScript](./solution.ts)
+
 ## Stars earned
 
 ![5 stars](../../.github/06-challenge-stars.png)
