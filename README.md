@@ -55,7 +55,14 @@
 |    07     | Reorder the packages changed in order to fix the Grinch evil                                          |     🟠     |    **5**     | [Show](./src/07-challenge) |
 |    08     | Get the progress of each reindeer in the snow track                                                   |     🟢     |    **5**     | [Show](./src/08-challenge) |
 |    09     | Return the train action in the next step inside or out the board                                      |     🟠     |    **5**     | [Show](./src/09-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **45**    |           **/**            |
+|    10     | Create a compiler of instructions                                                                     |     🟠     |    **5**     | [Show](./src/10-challenge) |
+|    11     | Decode file names coded by the Grinch                                                                 |     🟢     |    **5**     | [Show](./src/11-challenge) |
+|    12     | Calculate the total price of the tree by ornaments                                                    |     🟢     |    **5**     | [Show](./src/12-challenge) |
+|    13     | Check if the robot (after executing a series of movements) return to his original position            |     🔴     |    **5**     | [Show](./src/13-challenge) |
+|    14     | Get the minimum number of moves needed for all the reindeer to end up in a stable                     |     🟢     |    **5**     | [Show](./src/14-challenge) |
+|    15     | Create a table based on an array with objects                                                         |     🟢     |    **5**     | [Show](./src/15-challenge) |
+|    16     | Remove all adjacent snow piles from the path                                                          |     🟢     |    **5**     | [Show](./src/16-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **80**    |           **/**            |
 
 <h2>
     Related
