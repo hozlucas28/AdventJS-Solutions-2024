@@ -25,4 +25,4 @@ decodeFilename('987654321_elf-roster.csv.tempfile')
 
 ## Stars earned
 
-![XXX stars](../../.github/11-challenge-stars.png)
+![5 stars](../../.github/11-challenge-stars.png)
