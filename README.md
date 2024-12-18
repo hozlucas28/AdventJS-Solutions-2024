@@ -65,7 +65,8 @@
 |    15     | Create a table based on an array with objects                                                         |     🟢     |    **5**     | [Show](./src/15-challenge) |
 |    16     | Remove all adjacent snow piles from the path                                                          |     🟢     |    **5**     | [Show](./src/16-challenge) |
 |    17     | Get how many explosive coal bombs are in the adjacent positions                                       |     🟠     |    **5**     | [Show](./src/17-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **85**    |           **/**            |
+|    18     | Get the name and address of the child inside the misformatted diary                                   |     🔴     |    **5**     | [Show](./src/18-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **90**    |           **/**            |
 
 <h2>
     Related
