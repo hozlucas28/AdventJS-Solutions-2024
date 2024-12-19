@@ -66,7 +66,8 @@
 |    16     | Remove all adjacent snow piles from the path                                                          |     🟢     |    **5**     | [Show](./src/16-challenge) |
 |    17     | Get how many explosive coal bombs are in the adjacent positions                                       |     🟠     |    **5**     | [Show](./src/17-challenge) |
 |    18     | Get the name and address of the child inside the misformatted diary                                   |     🔴     |    **5**     | [Show](./src/18-challenge) |
-| **Total** |                                                                                                       |   **/**    |    **90**    |           **/**            |
+|    19     | Draw a tower with the minimum number of boxes for a specific weight                                   |     🔴     |    **5**     | [Show](./src/19-challenge) |
+| **Total** |                                                                                                       |   **/**    |    **95**    |           **/**            |
 
 <h2>
     Related
