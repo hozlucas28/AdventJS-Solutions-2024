@@ -68,7 +68,8 @@
 |    18     | Get the name and address of the child inside the misformatted diary                                   |     🔴     |    **5**     | [Show](./src/18-challenge) |
 |    19     | Draw a tower with the minimum number of boxes for a specific weight                                   |     🔴     |    **5**     | [Show](./src/19-challenge) |
 |    20     | Return an object with the missing and extra gifts                                                     |     🟢     |    **5**     | [Show](./src/20-challenge) |
-| **Total** |                                                                                                       |   **/**    |   **100**    |           **/**            |
+|    21     | Return the height of the binary tree                                                                  |     🟢     |    **5**     | [Show](./src/21-challenge) |
+| **Total** |                                                                                                       |   **/**    |   **105**    |           **/**            |
 
 <h2>
     Related
