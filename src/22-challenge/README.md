@@ -7,7 +7,8 @@ Your task is to write a function that, given an array of toys, **returns all pos
 > [!IMPORTANT]
 > You must return it in the order the toys appear and in combinations from 1 to n toys.
 
-> [!NOTE] > **The input array will always have at least one toy and there will never be duplicate toys**.
+> [!NOTE]
+> The input array will always have at least one toy and there will never be duplicate toys.
 
 > [!TIP]
 > There are many ways to solve this problem, but backtracking might be a good option. 😉
