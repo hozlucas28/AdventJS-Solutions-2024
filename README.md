@@ -69,7 +69,8 @@
 |    19     | Draw a tower with the minimum number of boxes for a specific weight                                   |     🔴     |    **5**     | [Show](./src/19-challenge) |
 |    20     | Return an object with the missing and extra gifts                                                     |     🟢     |    **5**     | [Show](./src/20-challenge) |
 |    21     | Return the height of the binary tree                                                                  |     🟢     |    **5**     | [Show](./src/21-challenge) |
-| **Total** |                                                                                                       |   **/**    |   **105**    |           **/**            |
+|    22     | Get all possible combinations of toys                                                                 |     🟠     |    **5**     | [Show](./src/22-challenge) |
+| **Total** |                                                                                                       |   **/**    |   **110**    |           **/**            |
 
 <h2>
     Related
