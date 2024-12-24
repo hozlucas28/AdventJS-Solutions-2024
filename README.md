@@ -71,7 +71,8 @@
 |    21     | Return the height of the binary tree                                                                  |     🟢     |    **5**     | [Show](./src/21-challenge) |
 |    22     | Get all possible combinations of toys                                                                 |     🟠     |    **5**     | [Show](./src/22-challenge) |
 |    23     | Find missing numbers                                                                                  |     🟢     |    **5**     | [Show](./src/23-challenge) |
-| **Total** |                                                                                                       |   **/**    |   **115**    |           **/**            |
+|    24     | Check if the trees are synchronized                                                                   |     🟠     |    **5**     | [Show](./src/24-challenge) |
+| **Total** |                                                                                                       |   **/**    |   **120**    |           **/**            |
 
 <h2>
     Related
