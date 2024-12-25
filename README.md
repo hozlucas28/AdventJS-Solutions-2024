@@ -72,7 +72,8 @@
 |    22     | Get all possible combinations of toys                                                                 |     🟠     |    **5**     | [Show](./src/22-challenge) |
 |    23     | Find missing numbers                                                                                  |     🟢     |    **5**     | [Show](./src/23-challenge) |
 |    24     | Check if the trees are synchronized                                                                   |     🟠     |    **5**     | [Show](./src/24-challenge) |
-| **Total** |                                                                                                       |   **/**    |   **120**    |           **/**            |
+|    25     | Return the value of the program after executing instructions sequence                                 |     🟠     |    **5**     | [Show](./src/25-challenge) |
+| **Total** |                                                                                                       |   **/**    |   **125**    |           **/**            |
 
 <h2>
     Related
