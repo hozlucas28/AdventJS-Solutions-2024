@@ -4,14 +4,17 @@
  * @returns {string} - The completed percentage rounded to the nearest integer with a % sign.
  */
 export default function getCompleted(timeWorked, totalTime) {
-	/** @type {Date} */
-	const worked = new Date(`1970-01-01T${timeWorked}`)
+	const [wHours, wMinutes, wSeconds] = timeWorked.split(':').map(Number)
+	const [tHours, tMinutes, tSeconds] = totalTime.split(':').map(Number)
 
-	/** @type {Date} */
-	const totalWorked = new Date(`1970-01-01T${totalTime}`)
+	/** @type {number} */
+	const worked = wHours * 3600 + wMinutes * 60 + wSeconds
+
+	/** @type {number} */
+	const total = tHours * 3600 + tMinutes * 60 + tSeconds
 
 	/** @type {string} */
-	const productivity = `${Math.round((worked.getTime() / totalWorked.getTime()) * 100)}%`
+	const productivity = `${Math.round((worked / total) * 100)}%`
 
 	return productivity
 }

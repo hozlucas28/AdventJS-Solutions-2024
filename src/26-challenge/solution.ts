@@ -1,6 +1,10 @@
 export default function getCompleted(timeWorked: string, totalTime: string): `${string}%` {
-	const worked: Date = new Date(`1970-01-01T${timeWorked}`)
-	const totalWorked: Date = new Date(`1970-01-01T${totalTime}`)
-	const productivity: `${string}%` = `${Math.round((worked.getTime() / totalWorked.getTime()) * 100)}%`
+	const [wHours, wMinutes, wSeconds] = timeWorked.split(':').map(Number)
+	const [tHours, tMinutes, tSeconds] = totalTime.split(':').map(Number)
+
+	const worked: number = wHours * 3600 + wMinutes * 60 + wSeconds
+	const total: number = tHours * 3600 + tMinutes * 60 + tSeconds
+	const productivity: `${string}%` = `${Math.round((worked / total) * 100)}%`
+
 	return productivity
 }
