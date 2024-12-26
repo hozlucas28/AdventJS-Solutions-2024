@@ -1,6 +1,6 @@
 import fn from './solution'
 
-describe('Challenge 26: measure elves productivity', () => {
+describe('Challenge 26: measure the elves productivity', () => {
 	it('Test 01', () => {
 		const result: `${string}%` = fn('01:00:00', '03:00:00')
 		const expected: `${string}%` = '33%'

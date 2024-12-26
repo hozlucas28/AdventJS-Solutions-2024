@@ -73,7 +73,7 @@
 |    23     | Find missing numbers                                                                                  |     🟢     |    **5**     | [Show](./src/23-challenge) |
 |    24     | Check if the trees are synchronized                                                                   |     🟠     |    **5**     | [Show](./src/24-challenge) |
 |    25     | Return the value of the program after executing instructions sequence                                 |     🟠     |    **5**     | [Show](./src/25-challenge) |
-|    26     | Measure elves productivity                                                                            |     🟢     |    **5**     | [Show](./src/26-challenge) |
+|    26     | Measure the elves productivity                                                                        |     🟢     |    **5**     | [Show](./src/26-challenge) |
 | **Total** |                                                                                                       |   **/**    |   **130**    |           **/**            |
 
 <h2>
