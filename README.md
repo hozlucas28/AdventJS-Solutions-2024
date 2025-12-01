@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
+    Repository of <a href="https://2024.adventjs.dev/" target="_blank">AdventJS<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
 </h4>
 
 <p align="center">
@@ -24,7 +24,7 @@
     Summary
 </h2>
 <p>
-    This repository serves as a housing solutions to programming challenges of <a href="https://adventjs.dev/" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers a platform for developers to improve Python, JavaScript or TypeScript skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
+    This repository serves as a housing solutions to programming challenges of <a href="https://2024.adventjs.dev/" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers a platform for developers to improve Python, JavaScript or TypeScript skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
 </p>
 
 > This repository contains all the solutions in Python, JavaScript, and TypeScript.
@@ -87,6 +87,11 @@
     </ul>
     <ul>
         <li>
+            <a href="https://github.com/hozlucas28/AdventJS-Solutions-2025" target="_blank">Solutions of the AdventJS - 2025</a>
+        </li>
+    </ul>
+    <ul>
+        <li>
             <a href="https://github.com/hozlucas28/AdventTS-Solutions-2023" target="_blank">Solutions of the Advent of TypeScript - 2023</a>
         </li>
     </ul>
@@ -113,7 +118,7 @@
     Acknowledgments
 </h2>
 <p>
-    Thanks to <a href="https://www.linkedin.com/in/midudev/" target="_blank">Miguel Ángel Durán</a> to develop <a href="https://adventjs.dev/" target="_blank">AdventJS<a>.
+    Thanks to <a href="https://www.linkedin.com/in/midudev/" target="_blank">Miguel Ángel Durán</a> to develop <a href="https://2024.adventjs.dev/" target="_blank">AdventJS<a>.
 </p>
 
 <h2>
