@@ -105,6 +105,11 @@
             <a href="https://github.com/hozlucas28/Halloween-Dev-Solutions-2025" target="_blank">Solutions of the Halloween-dev - 2025</a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="https://github.com/hozlucas28/HackerRank-Algorithms" target="_blank">Solutions to HackerRank algorithms</a>
+        </li>
+    </ul>
 </p>
 
 <h2>
