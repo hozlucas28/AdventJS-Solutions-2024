@@ -116,7 +116,7 @@
     License
 </h2>
 <p>
-    This repository is under <a href="./LICENSE" target="_blank">MIT License</a>, if you want to see what you are allowed to do with the content of this repository, please visit <a href="https://choosealicense.com/licenses/" target="_blank">choosealicense</a> for more information.
+    This repository is under <a href="./LICENSE" target="_blank">MIT license</a>, if you want to see what you are allowed to do with the content of this repository, please visit <a href="https://choosealicense.com/licenses/" target="_blank">choosealicense.com</a> for more information.
 </p>
 
 <h2>
