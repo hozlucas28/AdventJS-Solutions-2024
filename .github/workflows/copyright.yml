@@ -1,0 +1,51 @@
+---
+name: Copyright
+run-name: Copyright
+description: Updates license copyright year annually.
+permissions: {}
+
+on:
+  schedule:
+    - cron: 0 0 1 1 *
+    
+  workflow_dispatch:
+
+jobs:
+  license-copyright:
+    name: Update license copyright year
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout license file
+        uses: actions/checkout@v5
+        with:
+          sparse-checkout: LICENSE
+          persist-credentials: true
+          sparse-checkout-cone-mode: false
+
+      - name: Create pull request to update license copyright year
+        id: update-license
+        uses: FantasticFiasco/action-update-license-year@d837fc83ecb71196807bdf3854208f556e66f6ed
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          labels: bot
+          prTitle: Update license copyright year to {{currentYear}}
+          branchName: github-action/update-license-year-to-{{currentYear}}
+          commitTitle: "docs: update license copyright year"
+          commitAuthorName: github-actions[bot]
+          commitAuthorEmail: github-actions[bot]@users.noreply.github.com
+
+      - name: Merge pull request
+        if: ${{ steps.update-license.outputs.pullRequestNumber != '' }}
+        run: gh pr merge $PULL_REQUEST_NUMBER --merge --delete-branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PULL_REQUEST_NUMBER: ${{ steps.update-license.outputs.pullRequestNumber }}
+
+concurrency:
+  group: copyright
+  cancel-in-progress: true
