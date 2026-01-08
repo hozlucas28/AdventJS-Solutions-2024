@@ -107,7 +107,7 @@
     </ul>
     <ul>
         <li>
-            <a href="https://github.com/hozlucas28/HackerRank-Algorithms" target="_blank">Solutions to HackerRank algorithms</a>
+            <a href="https://github.com/hozlucas28/HackerRank" target="_blank">Solutions of HackerRank challenges</a>
         </li>
     </ul>
 </p>
